@@ -16,6 +16,6 @@ Feature: Login to the Box App
     Then user verify the "<title1>" in the app
 
     Examples: 
-      | name                      | password    | title                       | title1       |
-      | gujral608@gmail.com       | Welcome@123 | All Files \| Powered by Box | Box \| Login |
-      | nancydhingra131@gmail.com | nancy131    | All Files \| Powered by Box | Box \| Login |
+      | name                      | password     | title                       | title1       |
+      | gujral608@gmail.com       | Welcome@1234 | All Files \| Powered by Box | Box \| Login |
+      | nancydhingra131@gmail.com | nancy131     | All Files \| Powered by Box | Box \| Login |
